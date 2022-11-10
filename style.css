@@ -80,7 +80,13 @@ p {
   text-decoration: underline;
 }
 @media (max-width: 576px) {
-  h2,
+  h1 {
+    font-size: 48px;
+  }
+  h2 {
+    text-align: center;
+    font-size: 32px;
+  }
   p,
   .paragraph-link {
     display: block;

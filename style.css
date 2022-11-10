@@ -5,7 +5,7 @@
 }
 
 body {
-  margin-top: 100px;
+  margin: 100px 0;
 }
 
 h1 {
@@ -80,7 +80,7 @@ p {
   text-decoration: underline;
 }
 @media (max-width: 576px) {
-  h2.mb-3,
+  h2,
   p,
   .paragraph-link {
     display: block;

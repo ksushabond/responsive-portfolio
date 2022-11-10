@@ -32,7 +32,7 @@ p {
 }
 
 .contact-link,
-.paragraf-link {
+.paragraph-link {
   margin: 20px;
   border-radius: 4px;
   padding: 20px 15px;
@@ -82,7 +82,7 @@ p {
 @media (max-width: 576px) {
   h2.mb-3,
   p,
-  .paragraf-link {
+  .paragraph-link {
     display: block;
     text-align: center;
   }
